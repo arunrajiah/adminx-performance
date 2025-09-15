@@ -42,8 +42,6 @@ A comprehensive WordPress performance optimization plugin designed for administr
 ```bash
 git clone https://github.com/arunrajiah/adminx-performance.git
 cd adminx-performance
-composer install
-npm install
 ```
 
 ## ⚙️ Configuration
@@ -161,13 +159,13 @@ This plugin is licensed under the GPL v2 or later.
 
 **Arun Rajiah**
 - GitHub: [@arunrajiah](https://github.com/arunrajiah)
-- Website: [Your Website]
+- LinkedIn: [arunrajiah](https://linkedin.com/in/arunrajiah)
 
 ## 🆘 Support
 
 For support and questions:
 - Create an issue on [GitHub](https://github.com/arunrajiah/adminx-performance/issues)
-- Contact: [your-email@domain.com]
+- GitHub Discussions: [AdminX Performance Discussions](https://github.com/arunrajiah/adminx-performance/discussions)
 
 ---
 

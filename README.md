@@ -131,15 +131,14 @@ We welcome contributions! Please follow these guidelines:
 
 ### Development Setup
 ```bash
-# Install dependencies
-composer install
-npm install
+# Set up local WordPress development environment
+# Copy plugin to wp-content/plugins/adminx-performance/
 
-# Run tests
-phpunit
+# Run WordPress Coding Standards check
+phpcs --standard=WordPress --extensions=php ./
 
-# Build assets
-npm run build
+# Run PHP syntax validation
+find . -name "*.php" -exec php -l {} \;
 ```
 
 ## 📝 Changelog
